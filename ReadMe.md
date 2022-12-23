@@ -11,4 +11,4 @@
     7. The users can withdraw
 3. Dynamic SVG NFT
 
-https://youtu.be/gyMwXuJrbJQ?t=79154
+
